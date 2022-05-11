@@ -1,0 +1,46 @@
+/* Payment Gateway Integration style */
+h1{
+    color: rgb(239, 239, 243);
+    text-align: center;
+    
+    white-space: nowrap;
+  }
+
+  .foo{
+    background-image: repeating-linear-gradient(-45deg, #12ca22, #090a0a 1.5px, #12ca22 2px, #090a0a 4px);
+  width:1910px;
+  height:850px;
+  
+}
+/* Self Introduction */
+#intro{
+    padding-left: 1200px;
+    padding-top:50px;
+  }
+
+/* For organizing intro at bottom-right */
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(241, 238, 238);
+    font-size: 20px;
+ }
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+
+/* For highlighting particular text */
+mark {
+    background-color: rgb(198, 223, 210);
+    color: black;
+  }
+
+/* Navigation to home page */
+a{
+    padding-left:1600px;
+    text-decoration: none;
+    color:aliceblue;
+  }
+ 
